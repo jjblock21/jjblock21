@@ -6,6 +6,6 @@
 <p>
    <img width="100" align='left' src="https://raw.githubusercontent.com/jjblock21/jjblock21/main/FMML2-9.png">
    My biggest Project right now is FMML aka. Fireworks Mania ModLoader, which is a Mod for the Game Fireworks Mania.<br>
-   It can clone stuff, delete stuff and much more and is completly written in <strong>C#<Strong>.<br>
-   You can check it out here: (https://github.com/jjblock21/fmml)
+   It can clone stuff, delete stuff and much more and is completly written in <strong>C#</strong>.<br>
+   You can check it out here: (<strong>https://github.com/jjblock21/fmml</strong>)
 </p>
