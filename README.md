@@ -9,5 +9,5 @@
    My biggest Project right now is FMML aka. Fireworks Mania ModLoader, which is a Mod for the Game Fireworks Mania.<br>
    It can clone stuff, delete stuff and much more and is completly written in <strong>C#</strong>.<br>
    You can check it out here: <strong>https://github.com/jjblock21/fmml</strong><br>
-   Credit also goes to <strong>warblery</strong> fro creating <a href="https://github.com/warbler/SharpMonoInjector"><strong>SharpMonoInjector</strong></a>
+   Credit also goes to <strong>warbler</strong> fro creating <a href="https://github.com/warbler/SharpMonoInjector"><strong>SharpMonoInjector</strong></a>
 </p>
