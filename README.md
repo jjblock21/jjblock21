@@ -1,7 +1,7 @@
 # jjblock21
 - 👋 Hi, I’m @jjblock21
-- 👀 I’m interested in **C#**, **Java** and Game Developement.
-- 🌱 I’m currently learning **C++** and i'm looking forward to learning **javascript**
+- 👀 I’m interested in **C#**, **Java** and Game Developement with Unity.
+
 <!-- --- 
  ### My biggest Project right now
 <p>
