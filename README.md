@@ -1,6 +1,7 @@
 # jjblock21
-- 👋 Hi, I’m @jjblock21
-- 👀 I’m interested in **C#**, **Java** and Game Developement with Unity.
+This file is kinda pointless isn't it.
+<!--- 👋 Hi, I’m @jjblock21
+- 👀 I’m interested in **C#**, **Java** and Game Developement with Unity.-->
 
 <!-- --- 
  ### My biggest Project right now
