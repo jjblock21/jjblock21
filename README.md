@@ -1,5 +1,5 @@
 # jjblock21
-Awesome profile description goes here.
+Profile description goes here.
 <!--- 👋 Hi, I’m @jjblock21
 - 👀 I’m interested in **C#**, **Java** and Game Developement with Unity.-->
 
